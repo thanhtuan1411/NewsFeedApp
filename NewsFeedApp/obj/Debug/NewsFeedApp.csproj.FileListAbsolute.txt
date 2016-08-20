@@ -1,0 +1,216 @@
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\SPAWithBreezeAngular.dll.config
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\SPAWithBreezeAngular.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\SPAWithBreezeAngular.pdb
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\EntityFramework.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\Microsoft.Data.Edm.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\Microsoft.Data.OData.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\Newtonsoft.Json.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\System.Net.Http.Formatting.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\System.Spatial.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\System.Web.Helpers.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\System.Web.Http.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\System.Web.Http.OData.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\System.Web.Http.WebHost.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\System.Web.Mvc.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\System.Web.Optimization.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\System.Web.Razor.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\System.Web.WebPages.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\WebGrease.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\WebMatrix.Data.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\WebMatrix.WebData.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\Antlr3.Runtime.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\EntityFramework.xml
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\Newtonsoft.Json.xml
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\System.Net.Http.Formatting.xml
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\System.Web.Helpers.xml
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\System.Web.Http.xml
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\System.Web.Http.WebHost.xml
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\System.Web.Mvc.xml
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\System.Web.Razor.xml
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\System.Web.WebPages.xml
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\WebMatrix.Data.xml
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\WebMatrix.WebData.xml
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\System.Web.Http.OData.xml
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\Microsoft.Data.Edm.xml
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\Microsoft.Data.OData.xml
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\System.Spatial.xml
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\de\System.Spatial.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\es\System.Spatial.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\fr\System.Spatial.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\it\System.Spatial.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\ja\System.Spatial.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\ko\System.Spatial.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\ru\System.Spatial.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\obj\Debug\SPAWithBreezeAngular.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\obj\Debug\SPAWithBreezeAngular.pdb
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\SPAWithBreezeAngular\obj\Debug\NewsFeedApp.csprojResolveAssemblyReference.cache
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\SPAWithBreezeAngular.dll.config
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\SPAWithBreezeAngular.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\SPAWithBreezeAngular.pdb
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\EntityFramework.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\Microsoft.Data.Edm.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\Microsoft.Data.OData.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\Newtonsoft.Json.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\System.Spatial.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\System.Web.Helpers.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\System.Web.Http.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\System.Web.Http.OData.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\System.Web.Mvc.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\System.Web.Optimization.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\System.Web.Razor.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\System.Web.WebPages.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\WebGrease.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\WebMatrix.Data.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\WebMatrix.WebData.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\Antlr3.Runtime.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\EntityFramework.xml
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\Newtonsoft.Json.xml
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\System.Web.Helpers.xml
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\System.Web.Http.xml
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\System.Web.Mvc.xml
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\System.Web.Razor.xml
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\System.Web.WebPages.xml
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\WebMatrix.Data.xml
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\WebMatrix.WebData.xml
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\System.Web.Http.OData.xml
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\Microsoft.Data.Edm.xml
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\Microsoft.Data.OData.xml
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\System.Spatial.xml
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\de\System.Spatial.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\es\System.Spatial.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\fr\System.Spatial.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\it\System.Spatial.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\ja\System.Spatial.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\ko\System.Spatial.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\ru\System.Spatial.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\obj\Debug\NewsFeedApp.csprojResolveAssemblyReference.cache
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\obj\Debug\SPAWithBreezeAngular.dll
+C:\Users\Tuan\Downloads\Asp.net MVC Sample using AngularJs\C#\NewsFeedApp\obj\Debug\SPAWithBreezeAngular.pdb
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\EntityFramework.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\Microsoft.Data.Edm.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\Microsoft.Data.OData.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\System.Net.Http.Formatting.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\System.Spatial.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\System.Web.Helpers.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\System.Web.Http.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\System.Web.Http.OData.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\System.Web.Http.WebHost.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\System.Web.Mvc.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\System.Web.Optimization.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\System.Web.Razor.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\System.Web.WebPages.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\System.Web.WebPages.Razor.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\WebGrease.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\WebMatrix.Data.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\WebMatrix.WebData.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\Antlr3.Runtime.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\EntityFramework.xml
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\System.Net.Http.Formatting.xml
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\System.Web.Helpers.xml
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\System.Web.Http.xml
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\System.Web.Http.WebHost.xml
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\System.Web.Mvc.xml
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\System.Web.Razor.xml
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\System.Web.WebPages.xml
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\System.Web.WebPages.Razor.xml
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\WebMatrix.Data.xml
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\WebMatrix.WebData.xml
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\System.Web.Http.OData.xml
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\Microsoft.Data.Edm.xml
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\Microsoft.Data.OData.xml
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\System.Spatial.xml
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\de\System.Spatial.resources.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\es\System.Spatial.resources.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\fr\System.Spatial.resources.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\it\System.Spatial.resources.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\ja\System.Spatial.resources.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\ko\System.Spatial.resources.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\ru\System.Spatial.resources.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\obj\Debug\NewsFeedApp.csprojResolveAssemblyReference.cache
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\NewsFeedAppication.dll.config
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\NewsFeedAppication.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\NewsFeedAppication.pdb
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\obj\Debug\NewsFeedAppication.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\obj\Debug\NewsFeedAppication.pdb
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\Newtonsoft.Json.dll
+C:\Users\Tuan\Desktop\NewsFeedApp\NewsFeedApp\bin\Newtonsoft.Json.xml

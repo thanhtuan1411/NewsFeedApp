@@ -1,0 +1,75 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html data-ng-app="app" id="ng-app" lang="sv">
+<head>
+    <title>NewsFees Application</title>
+    <script src="http://code.angularjs.org/1.5.8/angular.min.js"></script>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+
+    <style>
+        #mydiv {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 1000;
+            background-color: grey;
+            opacity: .8;
+        }
+
+        .ajax-loader {
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            margin-left: -32px; /* -1 * image width / 2 */
+            margin-top: -32px; /* -1 * image height / 2 */
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div data-ng-controller="NewsFeedsController" class="container">
+        <h2>News Feed Application</h2>
+        <strong class="error">{{ error }}</strong>
+        <div id="mydiv" data-ng-show="loading">
+            <img src="Images/load.gif" class="ajax-loader" />
+        </div>
+         
+        <table class="table table-bordered table-hover" style="width: 800px">
+            <tr>
+                <th>ID</th>
+                <th>NewsFeed Text</th>
+                <th>Publication Date</th>             
+            </tr>     
+
+            <tr data-ng-repeat="newsFeed in newsFeeds | orderBy:'PublicationDate':true">
+                <td><strong>{{ newsFeed.NewsFeedID }}</strong></td>
+                <td>
+                    <p>{{ newsFeed.NewsFeedText }}</p>                    
+                </td>
+                <td>
+                    <p>{{ newsFeed.PublicationDate }}</p>                    
+                </td>           
+            </tr>
+        </table>
+
+        <form name="addNewsFeed" data-ng-show="true" style="width: 800px;">
+            <label>NewsFeed Text:</label><input type="text" data-ng-model="newNewsFeed.NewsFeedText" required />
+            <label>Publication Date:</label><input type="date" data-ng-model="newNewsFeed.PublicationDate" required />
+            <input type="submit" value="Add" data-ng-click="add()" class="btn btn-primary" />
+            <br />
+            <br />
+        </form>
+        <hr />
+    </div>
+
+    @Scripts.Render("~/bundles/app")
+
+</body>
+</html>
